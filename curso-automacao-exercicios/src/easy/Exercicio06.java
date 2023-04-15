@@ -1,4 +1,4 @@
-package easy;
+ah package easy;
 
 import javax.swing.JOptionPane;
 

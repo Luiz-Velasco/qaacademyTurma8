@@ -1,4 +1,4 @@
-package Medium;
+package Pratica.Medium;
 
 import javax.swing.JOptionPane;
 

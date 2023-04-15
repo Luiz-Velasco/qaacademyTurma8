@@ -1,4 +1,4 @@
-package exemploMetodos;
+package Pratica.exemploMetodos;
 
 public class Exercicio01MetodosSemRetorno {
 

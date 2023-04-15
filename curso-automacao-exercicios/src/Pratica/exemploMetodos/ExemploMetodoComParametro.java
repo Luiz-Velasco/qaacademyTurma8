@@ -1,4 +1,4 @@
-package exemploMetodos;
+package Pratica.exemploMetodos;
 
 import javax.swing.JOptionPane;
 

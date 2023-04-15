@@ -1,4 +1,4 @@
-package Medium;
+package Pratica.Medium;
 
 public class Exercicio01_medium {
 

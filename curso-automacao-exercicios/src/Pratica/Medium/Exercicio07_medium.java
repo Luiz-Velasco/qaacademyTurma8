@@ -1,4 +1,4 @@
-package Medium;
+package Pratica.Medium;
 
 public class Exercicio07_medium {
     public static void main(String[] args) {
@@ -22,9 +22,9 @@ public class Exercicio07_medium {
 
         //Exercicio08
         int i = 0;
-        while (i < 12) {
+        while (i <= 11) {
             System.out.println("O mês: "
-             + (i + 1) + "-" + vetorMeses[i]);
+             + (i + 1) + "- " + vetorMeses[i]);
             i++;
         } // fim while
     }
