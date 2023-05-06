@@ -2,7 +2,7 @@ package easy;
 import javax.swing.JOptionPane;
 
 public class Exercicio_casa03 {
-    
+
     public static void main(String[] args) {
         int valor1;
         int valor2;
